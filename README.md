@@ -26,6 +26,15 @@ Some tasks are labeled as `stretch` goals in case there's time and resources to 
 
 These milestones are available in the project [Milestones tab](https://github.com/Quansight-Labs/czi-conda-forge-mgmt/milestones).
 
+## 👥 Community
+
+The team meets on the last session of the month of the "Mamba-org Meet" community calls.
+
+* [View the public calendar](https://calendar.google.com/calendar/embed?src=ab3jrfpede0kq0ubsroe82cd00@group.calendar.google.com)
+* [Public iCal URL to import in your calendar](https://calendar.google.com/calendar/ical/ab3jrfpede0kq0ubsroe82cd00%40group.calendar.google.com/public/basic.ics)
+
+Meeting notes are publicly available under [`meeting-notes/`](meeting-notes/).
+
 ## ℹ️ Acknowledgements
 
 This is a joint project with [Quansight Labs](https://labs.quansight.org/) and [QuantStack](https://quantstack.net/),
