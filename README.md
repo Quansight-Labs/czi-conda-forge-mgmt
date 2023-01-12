@@ -33,7 +33,6 @@ The team meets on the last session of the month of the "Mamba-org Meet" communit
 * [View the public calendar](https://calendar.google.com/calendar/embed?src=ab3jrfpede0kq0ubsroe82cd00@group.calendar.google.com)
 * [Public iCal URL to import in your calendar](https://calendar.google.com/calendar/ical/ab3jrfpede0kq0ubsroe82cd00%40group.calendar.google.com/public/basic.ics)
 
-
 Meeting notes are publicly available under [`meeting-notes/`](meeting-notes/).
 
 ## ℹ️ Acknowledgements
