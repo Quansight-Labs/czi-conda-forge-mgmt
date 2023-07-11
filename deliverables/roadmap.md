@@ -14,6 +14,7 @@ In order to be sustainable, conda-forge's infrastructure...
 * needs to be fully documented and up-to-date.
 * should be easier to test and debug.
 * should be more robust to failures, and it should be easier to recover from failures.
+* should have better control over its dependencies supply chain.
 * should auto-report failures to the right people.
 * should be as secure as reasonably possible.
 
@@ -36,3 +37,4 @@ In order to be sustainable, conda-forge's infrastructure...
 * Refactor libcfgraph and cf-graph-countyfair database repositories.
 * Add a testing suite to the regro bots.
 * Add failure reports.
+* Add mechanisms to prevent errors from supply chain updates.
