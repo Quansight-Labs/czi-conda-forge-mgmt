@@ -2,7 +2,7 @@
 tags:
  - meeting-notes
 ---
-# 2023-MM-DD CZI EOSS 5 conda-forge grant meeting
+# {{ date.strftime("%Y-%m-%d") }} CZI EOSS 5 conda-forge grant meeting
 
 ## 👥 Attendees
 
@@ -31,4 +31,3 @@ X attendees in total
 - [ ] .
 - [ ] .
 - [ ] .
-- [ ] 
